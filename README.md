@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KendyProject](https://github.com/bensaied/KendyProject)
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning **Redis**
 
 - 💬 Ask me about **react, next, node, flask, cryptography...**
 
