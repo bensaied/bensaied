@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oussama</h1>
 <h3 align="center">I am a Software Engineer at IDSA. I love to learn about new technology, connect with people around the world and help others get into tech as well.</h3>
 
-- 🔭 I’m currently working on [KendyProject](https://github.com/bensaied/KendyProject)
+- 🔭 I’m currently working on [CamSmart](https://github.com/bensaied/CamSmart)
 
 - 🌱 I’m currently learning **Redis**
 
