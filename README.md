@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CamSmart](https://github.com/bensaied/CamSmart)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **react, next, node, flask, cryptography...**
 
