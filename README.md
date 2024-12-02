@@ -14,8 +14,6 @@
 ![api](https://github.com/user-attachments/assets/91b31172-c4c9-4a09-afcf-adad8154f76d)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bensaied&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bensaied&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bensaied&theme=default&no-frame=false&no-bg=false&margin-w=4)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bensaied&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
