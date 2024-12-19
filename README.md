@@ -2,7 +2,7 @@
 <h3 align="center">I am a Software Engineer at IDSA. I love learning new technologies in development, DevOps, and cloud, connecting with people around the world, and sharing knowledge to inspire and empower others in tech.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [KendyProject](https://github.com/bensaied/KendyProject)<br>👯 I’m looking to collaborate on software engineering and DevOps projects.<br>🌱 I’m currently learning Docker Swarm.<br>💬 Ask me about react, next, node, cryptography, docker ...<br>
+🔭 I’m currently working on [ScrapeSense](https://github.com/bensaied/ScrapeSense)<br>👯 I’m looking to collaborate on software engineering and DevOps projects.<br>🌱 I’m currently learning Docker Swarm.<br>💬 Ask me about react, next, node, cryptography, docker ...<br>
 
 
 ## 🌐 Socials:
