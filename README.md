@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | AI Solutions Architect</h3>
 
 # 💫 About Me:
-🔭 Currently building [AgentXpert](https://github.com/bensaied/AgentXpert), an AI agent platform for intelligent customer support powered by NLP and Generative AI.<br>  
+🔭 Currently building [AgentXpert](https://github.com/bensaied/AgentXpert).<br>  
 🧠 Passionate about designing AI solutions, applying machine learning and GenAI tools to real-world problems.<br>  
 👯 Open to collaboration on AI architecture, building AI agents, and applied ML/GenAI projects.<br>  
 🌱 Currently diving deeper into **Automated AI Agents** and **LLM orchestration**.<br>  
