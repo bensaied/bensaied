@@ -6,7 +6,7 @@
 🧠 Passionate about designing AI solutions, applying machine learning and GenAI tools to real-world problems.<br>  
 👯 Open to collaboration on AI architecture, building AI agents, and applied ML/GenAI projects.<br>  
 🌱 Currently diving deeper into **Automated AI Agents** and **LLM orchestration**.<br>  
-💬 Ask me about: `React`, `Next.js`, `Node.js`, `Dash`, `Watsonx`, `LLMs`, `Generative AI`, `n8n`, `MCP`, `A2A`, `Cryptography`,and `Docker`.<br>
+💬 Ask me about: `React`, `Next.js`, `Node.js`, `Dash`, `ML`, `Watsonx`, `LLMs`, `Generative AI`, `n8n`, `MCP`, `A2A`, `Cryptography`,and `Docker`.<br>
 
 
 
