@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I'm Oussama</h1>
 <h3 align="center">Software Engineer | AI Solutions Architect</h3>
 
-# 💫 About Me:.......
+# 💫 About Me:......
 🔭 Currently building [AIDataAnalysis](https://github.com/bensaied/AIDataAnalysis).<br>
 <br>
 🧠 Passionate about designing AI solutions, applying machine learning and GenAI tools to real-world problems.<br>  
