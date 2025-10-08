@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | AI Solutions Architect</h3>
 
 # 💫 About Me:
-🔭 Currently building [AIDataAnalysis](https://github.com/bensaied/AIDataAnalysis).<br>
+🔭 Currently building [CorporateChatBot](https://github.com/bensaied/CorporateChatBot).<br>
 <br>
 🧠 Passionate about designing AI solutions, applying machine learning and GenAI tools to real-world problems.<br>  
 👯 Open to collaboration on AI architecture, building AI agents, and applied ML/GenAI projects.<br>  
