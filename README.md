@@ -1,5 +1,5 @@
 <h1 align="center">Hi, 👋 I'm Oussama</h1>
-<h3 align="center">Software Engineer | AI Solutions Architect</h3>
+<h3 align="center">Software Engineer | AI Solutions Architect</h3>.
 
 # 💫 About Me:
 🔭 Currently building [CorporateChatBot](https://github.com/bensaied/CorporateChatBot).<br>
